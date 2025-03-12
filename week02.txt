@@ -1,0 +1,4 @@
+git 명령어
+
+git add 파일명 (해당 파일을 stage에 올림)
+ex) git add week01.txt
