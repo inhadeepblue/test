@@ -16,3 +16,7 @@ git remote add origin https://github.com/inhadeepblue/test.git
 
 git push -u origin main
 (연결된 원격 리포지토리의 main 브랜치에 로컬 리포지토리의 main 브랜치 내용을 업로드)
+
+git remote -v (원격 리포지토리 확인)
+
+git clone "원격리포지토리 주소" . (원격리포지토리를 로컬로 클론)
