@@ -1,6 +1,11 @@
 linux 명령어
 
+echo "작성할 메세지" >> README.md
+(README.md 파일을 만들고 그 안에 저장소를 설명하는 메세지를 쓰게한다)
 
+cat "텍스트파일명"
+ex) cat README.md
+(텍스트파일에 들어있는 내용을 화면에 출력)
 
 git 명령어
 
