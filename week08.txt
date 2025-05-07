@@ -1,0 +1,3 @@
+Midterm exam
+- Computer Architecture
+- Open Source (git, github)
